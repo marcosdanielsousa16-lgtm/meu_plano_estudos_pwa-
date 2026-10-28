@@ -1,0 +1,11 @@
+{
+  "name": "Meu Plano de Estudos",
+  "short_name": "Meus Estudos",
+  "description": "Organize matérias, conteúdos e sessões de estudo.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0d13",
+  "theme_color": "#10111a",
+  "icons": []
+}
